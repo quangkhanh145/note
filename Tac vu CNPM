@@ -1,0 +1,23 @@
+
+-- Chức năng cho ứng dụng --
+  - quản lý nhân viên
+  - quản lý khách hàng
+  - quản lý cơ sở vật chất
+  - quản lý ngân sách
+
+-- các phần công việc --
+  1. 1_Introduction + 2_Overall Description + 5_Other Nonfunctional Requirements
+  2. 3.1_User Interfaces + 3.2_Hardware Interfaces
+  3. 3.3_Software Interfaces + 3.4_Communications Interfaces
+  4. Chức năng (quản lý nhân viên + quản lý khác hàng) (tương đương mục 4.1 và 4.2)
+  5. Chức năng (quản lý cơ sở vật chất + quản lý ngân sách) (tương đương mục 4.3 và mục 4.4)
+  
+-- Deadline 20h00 ngày 28/03/2016 (còn lại khoảng 2 ngày để chỉnh sửa nha) --
+
+-- yêu cầu --
+  + font-size: 14
+  + font: Times New Roman 
+  + khoảng cách dòng: 1.5
+  + nội dung mục 3:  vẽ các bản thiết kế giao diện bằng công cụ nào tùy thích
+  + nội dung mục 4: miêu tả chi tiết chức năng dùng để làm gì? ai dùng? dùng khi nào? v.v...
+
