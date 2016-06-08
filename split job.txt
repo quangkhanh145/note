@@ -1,0 +1,18 @@
+## Quản lý:
+	- thông báo (ThongBao, NhanThongBao)
+	- ql nhân viên (NhanVien)
+	- ql thiết bị, phòng (ThietBi, Phong, gomThietBi)
+	- ql dịch vụ (DichVu)
+
+## Tiếp tân:
+	- ql thuê/trả phòng (KhachHang, HoaDonPhong, gomPhong, Phong, gomDV, DichVu, gomThietBi, ThietBi)
+	- ql đặt phòng (DatPhong, KhachHang, gomThietBi, ThietBi)
+
+## Kế toán:
+	- ql mua hàng (HoaDonMuaHang)
+	- ql sửa chữa thiết bị (ThietBi, SuaChua, HoaDonThietBi)
+	- ql hóa đơn phòng (HoaDonPhong)
+
+## Phục vụ:
+	- cập nhật phòng (Phong)
+	- cập nhật dịch vụ (DichVu)
