@@ -1,8 +1,8 @@
-_Phần 1: 4 gạch trong mục quản lý
-_Phần 2: gạch thứ nhất trong mục tiếp tân
-_Phần 3: gạch thứ hai trong mục tiếp tân
-_Phần 4: 3 gạch trong phần kế toán
-_Phần 5: 2 gạch trong phần phục vụ
+Sơn _Phần 1: 4 gạch trong mục quản lý
+Thắng _Phần 2: gạch thứ nhất trong mục tiếp tân
+Đức _Phần 3: gạch thứ hai trong mục tiếp tân
+My _Phần 4: 3 gạch trong phần kế toán
+Thanh _Phần 5: 2 gạch trong phần phục vụ
 
 ## Quản lý:
 	- thông báo (ThongBao, NhanThongBao)
